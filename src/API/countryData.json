@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "interestingFact": "The U.S. has the world's largest economy and is the third largest country by area."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan is home to the world's oldest company, founded in 578 AD."
+  },
+  {
+    "id": 3,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact": "Germany is known for engineering excellence and brands like Mercedes-Benz."
+  },
+  {
+    "id": 4,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60244639,
+    "interestingFact": "Italy has the most UNESCO World Heritage Sites, including Venice and Pompeii."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "India is the world's largest democracy with diverse cultures and religions."
+  },
+  {
+    "id": 6,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The UK is made up of four countries and is known for its royal family."
+  },
+  {
+    "id": 7,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "interestingFact": "Canada has the world's longest coastline and a multicultural population."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "capital": "Pretoria, Bloemfontein, Cape Town",
+    "population": 59308690,
+    "interestingFact": "South Africa is famous for the Big Five: lions, leopards, rhinos, elephants, and buffalos."
+  },
+  {
+    "id": 9,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is known for Carnival and the Amazon Rainforest."
+  }
+]
